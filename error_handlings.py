@@ -1,5 +1,5 @@
 
-'''we can handle minor errors only. using the try and ecxcept blocks'''
+'''we can handle minor errors only. using the try and ecxcept block method'''
 '''----------------------------------------------'''
 # print('hello python')
 # print('5')
